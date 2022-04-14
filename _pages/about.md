@@ -37,8 +37,8 @@ Education
 	  </td>
 	  <td valign="middle" align="left">
 	    <div>
-	    	<strong>Tsinghua University</strong>, <i>Sep. 2020 - Jun. 2023 (Expected)</i>
-        <br>
+        <div style="float:left"><b>Tsinghua University</b></div> <div style="float:right"><i>Sep. 2020 - Jun. 2023 (Expected)</i></div>
+        <div style="clear: both"></div>
 	    	Department of Automation
         <br>
         Master in Control Science and Engineering
@@ -54,8 +54,8 @@ Education
 	  </td>
 	  <td valign="middle">
 	    <div>
-	    	<b>Beijing Normal University</b>, <i text-align="right">Sept. 2016 - Jun. 2020</i>
-        <br>
+	    	<div style="float:left"><b>Beijing Normal University</b></div> <div style="float:right"><i>Sept. 2016 - Jun. 2020</i></div>
+				<div style="clear: both"></div>
 	    	College of Information Science and Technology
         <br>
          Bachelor in Computer Science and Technology
@@ -69,8 +69,8 @@ Education
 	  </td>
 	  <td valign="middle">
 	    <div>
-	    	<b>University of Oxford</b>, <i text-align="right">Jul. 2017 - Aug. 2017</i>
-        <br>
+        <div style="float:left"><b>University of Oxford</b></div> <div style="float:right"><i>Jul. 2017 - Aug. 2017</i></div>
+				<div style="clear: both"></div>
 	    	Oriel College
         <br>
          Exchange Student
@@ -116,13 +116,16 @@ Experiences
 
 Honors & Awards
 ---
-
-+ Merit Student, Beijing. 2020
-+ Outstanding Graduate, Beijing. 2020
-+ National Scholarship, Beijing Normal University. 2019.
-+ Mathematical Contest in Modeling Meritorious Winner, U.S. 2019
-+ Excellent Student Cadre, Beijing Normal University. 2017
-
+<div style="float:left">Merit Student, Beijing</div> <div style="float:right"><i>May. 2020</i></div>
+<div style="clear: both"></div>
+<div style="float:left">Outstanding Graduate, Beijing</div> <div style="float:right"><i>Apr. 2020</i></div>
+<div style="clear: both"></div>
+<div style="float:left">National Scholarship, Beijing Normal University</div> <div style="float:right"><i>Oct. 2019</i></div>
+<div style="clear: both"></div>
+<div style="float:left">Mathematical Contest in Modeling Meritorious Winner, U.S.</div> <div style="float:right"><i>Apr. 2019</i></div>
+<div style="clear: both"></div>
+<div style="float:left">Excellent Student Cadre, Beijing Normal University</div> <div style="float:right"><i>Oct. 2017</i></div>
+<br>
 
 Teaching Assistantship
 ---
@@ -131,16 +134,17 @@ Teaching Assistantship
 <div style="clear: both"></div>
 <div style="float:left">Instructor: Prof. Rui Jiang</div> <div style="float:right"><i class="latin">Tsinghua University</i></div>
 </div>
+<br>
 
 
-LeaderShip
+Leadership
 ---
 <div>
 <div style="float:left"><b>Vice Secretary of the BNU CIST Youth League Committee</b></div> <div style="float:right"><i>Jul. 2017 - May. 2018</i></div>
 <br>
 Lead four departments with more than 50 staff members. Organize several events with over 100 participants
 </div>
-<br>
+<div style="clear: both"></div>
 <div>
 <div style="float:left"><b>Monitor</b></div> <div style="float:right"><i>Oct. 2016 - Jun. 2020</i></div>
 <br>
