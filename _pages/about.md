@@ -20,41 +20,60 @@ My research interests fall in Natural Language Processing.
 td, th {
    border: none!important;
 }
+i {
+	text-align: right;
+	align: right;
+}
 </style>
 
 Education
 ---
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="left">
-	    <img src="http://lanjiang315.github.io/images/THU.jpg" width="35%">
+	  <tbody><tr><td valign="middle" align="left">
+	    <img src="http://lanjiang315.github.io/images/THU.jpg" width="40%">
 	  </td>
-	  <td style="width:2px">
+	  <td style="width:1px">
 	  </td>
-	  <td valign="middle">
+	  <td valign="middle" align="left">
 	    <div>
-	    	<b>M.S.</b> <i align="right">Sep. 2020 - Jun. 2023 (Expected)</i>
+	    	<strong>Tsinghua University</strong>, <i>Sep. 2020 - Jun. 2023 (Expected)</i>
         <br>
-	    	Department of Automation, Tsinghua University (THU), China
+	    	Department of Automation
         <br>
-        Master's student in Control Science and Engineering.
+        Master in Control Science and Engineering
         <br>
-		    Advisor: <a href="https://google.com">Rui Jiang</a>
+		    Advisor: <a href="https://www.au.tsinghua.edu.cn/info/1111/1526.htm">Rui Jiang</a>
         <br>
 		</div>
 	</td></tr></tbody>
-	<tbody><tr><td style="width:230px; height:110px" valign="middle" align="left">
-	    <img src="http://lanjiang315.github.io/images/BNU.jpg" width="35%">
+	<tbody><tr><td valign="middle" align="left">
+	    <img src="http://lanjiang315.github.io/images/BNU.jpg" width="40%">
 	  </td>
-	  <td style="width:2px">
+	  <td style="width:1px">
 	  </td>
 	  <td valign="middle">
 	    <div>
-	    	<b>M.S.</b> <i align="right">Sep. 2016 - Jun. 2020</i>
+	    	<b>Beijing Normal University</b>, <i text-align="right">Sept. 2016 - Jun. 2020</i>
         <br>
-	    	College of Information Science and Technology, Beijing Normal University (BNU), China
+	    	College of Information Science and Technology
         <br>
-         B.S. in Computer Science and Technology
+         Bachelor in Computer Science and Technology
+        <br>
+		</div>
+	</td></tr></tbody>
+	<tbody><tr><td valign="middle" align="left">
+	    <img src="http://lanjiang315.github.io/images/OXF.jpg" width="40%">
+	  </td>
+	  <td style="width:1px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>University of Oxford</b>, <i text-align="right">Jul. 2017 - Aug. 2017</i>
+        <br>
+	    	Oriel College
+        <br>
+         Exchange Student
         <br>
 		</div>
 	</td></tr></tbody>
