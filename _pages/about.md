@@ -26,27 +26,36 @@ Education
 ---
 
 <table style="border: none!important;">
-	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/pkgc.png" width="250">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="left">
+	    <img src="http://lanjiang315.github.io/images/THU.jpg" width="35%">
 	  </td>
-	  <td style="width:10px">
+	  <td style="width:2px">
 	  </td>
 	  <td valign="middle">
 	    <div>
-	    	<b>
-        	Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach
-        </b>
+	    	<b>M.S.</b> <i align="right">Sep. 2020 - Jun. 2023 (Expected)</i>
         <br>
-		<i>
-        	ACL 2022 Findings
-        </i>
+	    	Department of Automation, Tsinghua University (THU), China
         <br>
-	    	<b>Xin Lv</b>, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou
+        Master's student in Control Science and Engineering.
         <br>
-		[<a href="https://google.com">PDF</a>]
-        [<a href="https://google.com">Code</a>]
+		    Advisor: <a href="https://google.com">Rui Jiang</a>
         <br>
-			We highlight a more accurate evaluation setting OWA and propose a novel PLM-based KGC model named PKGC. In our experiments, we verify that CWA cannot bring accurate evaluation results.
+		</div>
+	</td></tr></tbody>
+	<tbody><tr><td style="width:230px; height:110px" valign="middle" align="left">
+	    <img src="http://lanjiang315.github.io/images/BNU.jpg" width="35%">
+	  </td>
+	  <td style="width:2px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>M.S.</b> <i align="right">Sep. 2016 - Jun. 2020</i>
+        <br>
+	    	College of Information Science and Technology, Beijing Normal University (BNU), China
+        <br>
+         B.S. in Computer Science and Technology
+        <br>
 		</div>
 	</td></tr></tbody>
 </table>
