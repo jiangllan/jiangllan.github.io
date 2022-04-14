@@ -21,7 +21,7 @@ td, th {
    border: none!important;
 }
 table {
-	font-size: 20;
+	font-size: 20;px
 }
 </style>
 
@@ -34,7 +34,7 @@ Education
       <table style="border: none!important;">
         <tbody><tr>
             <td width="90%">
-            	<div style="font:12px bolder '微软雅黑'; text-align:center;">
+            	<div style="font:40px bolder='微软雅黑'">
                 <br>
                 <strong>M.S.</strong> 2020 - Present  <br> 
                 Computer Science and Engineering, University of California San Diego (UCSD), U.S.<br>
@@ -43,7 +43,7 @@ Education
             	</div>
             </td>
             <td width="10%">
-              <img src="http://davidlvxin.github.io/images/THU.jpg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
+              <img src="http://lanjiang315.github.io/images/THU.jpg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
             </td>
           </tr>
           <tr>
@@ -54,7 +54,7 @@ Education
               B.S. in Computer Science and Technology<br> 
           </td>
           <td width="10%">
-            <img src="http://davidlvxin.github.io/images/BNU.jpg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
+            <img src="http://lanjiang315.github.io/images/BNU.jpg" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
           </td>
         </tr>
         <tr>
