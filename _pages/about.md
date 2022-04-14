@@ -95,20 +95,54 @@ MAssistant: A Personal Knowledge Assistant for MOOC Learners. The Conference on 
 EMNLP 2019.
 
 
+Experiences
+---
 
+<div style="float:left"><b>WeChat AI, Tencent Inc.</b></div> <div style="float:right"><i>Apr. 2022 - Oct. 2021</i></div>
+<br>
++ Research Intern advised by Hao Zhou and <a href="https://linyankai.github.io/">Yankan Lin</a>
++ Study the topic on the robustness of pre-trained language model
 
+<div style="float:left"><b>Chat Group, Xiaoice Ltd.</b></div> <div style="float:right"><i>Jul. 2021 - Sept. 2021</i></div>
+<br>
++ Algorithm Intern advised by Ruijie Zhang and Min Zeng
++ Study the topic on topic-controlled dialogue generation
 
+<div style="float:left"><b>Search Science Team, Baidu Inc.</b></div> <div style="float:right"><i>May. 2021 - Sept. 2020</i></div>
+<br>
++ Research Intern advised by <a href="https://tianshulyu.github.io/">Tianshu Lyu</a>
++ Study the topic on the length divergence bias of textual matching models
 
 
 Honors & Awards
 ---
 
-+ National Scholarship, Beijing Normal University. 2019.
 + Merit Student, Beijing. 2020
 + Outstanding Graduate, Beijing. 2020
-+ 
++ National Scholarship, Beijing Normal University. 2019.
++ Mathematical Contest in Modeling Meritorious Winner, U.S. 2019
++ Excellent Student Cadre, Beijing Normal University. 2017
 
-Teaching Experience
+
+Teaching Assistantship
 ---
+<div>
+<div style="float:left"><b>Fundamentals of Artificial Intelligence</b></div> <div style="float:right"><i>2020 - Present</i></div>
+<div style="clear: both"></div>
+<div style="float:left">Instructor: Prof. Rui Jiang</div> <div style="float:right"><i class="latin">Tsinghua University</i></div>
+</div>
 
 
+LeaderShip
+---
+<div>
+<div style="float:left"><b>Vice Secretary of the BNU CIST Youth League Committee</b></div> <div style="float:right"><i>Jul. 2017 - May. 2018</i></div>
+<br>
+Lead four departments with more than 50 staff members. Organize several events with over 100 participants
+</div>
+<br>
+<div>
+<div style="float:left"><b>Monitor</b></div> <div style="float:right"><i>Oct. 2016 - Jun. 2020</i></div>
+<br>
+Awarded the 2017 Beijing Excellent Class
+</div>
