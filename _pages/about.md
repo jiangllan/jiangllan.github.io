@@ -28,7 +28,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/pkgc.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/pkgc.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -54,7 +54,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/program_transfer.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/program_transfer.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -81,7 +81,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/facte.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/facte.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -98,7 +98,7 @@ Publications & Preprints
 	    	<b>Xin Lv</b>, Jiaxin Shi, Shulin Cao, Lei Hou, Juanzi Li
         <br>
 		[<a href="https://google.com">PDF</a>]
-        [<a href="https://github.com/davidlvxin/facte">Code</a>]
+        [<a href="https://github.com/LanJiang315/facte">Code</a>]
         <br>
 			We contribute a benchmark WD16K with additional fact-relevant relations, and a framework FactE, which can represent facts, entities and relations in the same space via attention. 
 		</div>
@@ -107,7 +107,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/squire.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/squire.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -133,7 +133,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/iclea.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/iclea.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -162,7 +162,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/bimr.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/bimr.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -188,7 +188,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/kat.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/kat.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -214,7 +214,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/inferkg.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/inferkg.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -240,7 +240,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/kacc.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/kacc.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -270,7 +270,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/dackgr.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/dackgr.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -300,7 +300,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/metakgr.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/metakgr.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -329,7 +329,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/transc.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/transc.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -346,7 +346,7 @@ Publications & Preprints
 	    	<b>Xin Lv</b>, Lei Hou, Juanzi Li, Zhiyuan Liu
         <br>
 		[<a href="https://aclanthology.org/D18-1222.pdf">PDF</a>]
-        [<a href="https://github.com/davidlvxin/TransC">Code</a>]
+        [<a href="https://github.com/LanJiang315/TransC">Code</a>]
         <br>
 			We propose a new knowledge embedding model named TransC. TransC embeds instances, concepts, and relations in the same space to deal with the transitivity of isA relations.
 		</div>
@@ -355,7 +355,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://davidlvxin.github.io/images/pub/openke.png" width="250">
+	    <img src="http://LanJiang315.github.io/images/pub/openke.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
