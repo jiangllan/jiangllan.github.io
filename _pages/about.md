@@ -82,7 +82,8 @@ Education
 
 Publications & Preprints
 ---
-On Length Divergence Bias in Textual Matching Models. [[Paper]]() \\
+
+On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330/) \\
 **Lan Jiang**, Tianshu Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin.\\
 Findings of ACL 2022.
 
