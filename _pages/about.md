@@ -83,7 +83,7 @@ Education
 Publications & Preprints
 ---
 
-On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330/) \\
+On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330.pdf) \\
 **Lan Jiang**, Tianshu Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin.\\
 Findings of ACL 2022.
 
@@ -91,7 +91,7 @@ Exploration of the Change Trend Analysis of the Epidemiological History of COVID
 Xiaolu Fei, **Lan Jiang**, Pengyu Chen, Jia Li, Lan Wei, Rui Jiang, Hairong Lv.\\
 China Digital Medicine 2020 (Journal).
 
-MAssistant: A Personal Knowledge Assistant for MOOC Learners. The Conference on Empirical Methods in Natural Language Processing. [[Paper]](https://aclanthology.org/D19-3023/) \\
+MAssistant: A Personal Knowledge Assistant for MOOC Learners. The Conference on Empirical Methods in Natural Language Processing. [[Paper]](https://aclanthology.org/D19-3023.pdf) \\
 **Lan Jiang**, Shuhan Hu, Mingyu Huang, Zhichun Wang, Jinjian Yang, Xiaoju Ye, Wei Zheng. \\
 EMNLP 2019.
 
