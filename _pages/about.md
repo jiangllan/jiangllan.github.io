@@ -98,8 +98,12 @@ EMNLP 2019.
 
 Experiences
 ---
+<div style="float:left"><b>NLC, MSRA</b></div> <div style="float:right"><i>June. 2022 - Now</i></div>
+<br>
++ Research Intern advised by <a href="https://www.microsoft.com/en-us/research/people/haohua/">Haoyang Huang</a>
++ Study the topic on Mixture of Experts (MoE).
 
-<div style="float:left"><b>WeChat AI, Tencent Inc.</b></div> <div style="float:right"><i>Apr. 2022 - Oct. 2021</i></div>
+<div style="float:left"><b>WeChat AI, Tencent Inc.</b></div> <div style="float:right"><i>Oct. 2021 - Apr. 2022 </i></div>
 <br>
 + Research Intern advised by Hao Zhou and <a href="https://linyankai.github.io/">Yankan Lin</a>
 + Study the topic on the robustness of pre-trained language model
@@ -109,7 +113,7 @@ Experiences
 + Algorithm Intern advised by Ruijie Zhang and Min Zeng
 + Study the topic on topic-controlled dialogue generation
 
-<div style="float:left"><b>Search Science Team, Baidu Inc.</b></div> <div style="float:right"><i>May. 2021 - Sept. 2020</i></div>
+<div style="float:left"><b>Search Science Team, Baidu Inc.</b></div> <div style="float:right"><i>Sept. 2020 - May. 2021</i></div>
 <br>
 + Research Intern advised by <a href="https://tianshulyu.github.io/">Tianshu Lyu</a>
 + Study the topic on the length divergence bias of textual matching models
