@@ -83,6 +83,10 @@ Education
 Publications & Preprints
 ---
 
+ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. \\
+**Lan Jiang**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Rui Jiang.\\
+EMNLP 2022.
+
 On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330.pdf) \\
 **Lan Jiang**, Tianshu Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin.\\
 Findings of ACL 2022.
