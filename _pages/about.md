@@ -31,7 +31,7 @@ Education
 
 <table style="border: none!important;">
 	  <tbody><tr><td valign="middle" align="left">
-	    <img src="http://lanjiang315.github.io/images/THU.jpg" width="40%">
+	    <img src="http://jiangllan.github.io/images/THU.jpg" width="40%">
 	  </td>
 	  <td style="width:1px">
 	  </td>
@@ -48,7 +48,7 @@ Education
 		</div>
 	</td></tr></tbody>
 	<tbody><tr><td valign="middle" align="left">
-	    <img src="http://lanjiang315.github.io/images/BNU.jpg" width="40%">
+	    <img src="http://jiangllan.github.io/images/BNU.jpg" width="40%">
 	  </td>
 	  <td style="width:1px">
 	  </td>
@@ -63,7 +63,7 @@ Education
 		</div>
 	</td></tr></tbody>
 	<tbody><tr><td valign="middle" align="left">
-	    <img src="http://lanjiang315.github.io/images/OXF.jpg" width="40%">
+	    <img src="http://jiangllan.github.io/images/OXF.jpg" width="40%">
 	  </td>
 	  <td style="width:1px">
 	  </td>
@@ -83,11 +83,11 @@ Education
 Publications & Preprints
 ---
 
-ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. \\
+ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. [[Code]](https://github.com/jiangllan/ROSE) \\
 **Lan Jiang**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Rui Jiang.\\
 EMNLP 2022.
 
-On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330.pdf) \\
+On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330.pdf) [[Code]](https://github.com/jiangllan/LengthBias) \\
 **Lan Jiang**, Tianshu Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin.\\
 Findings of ACL 2022.
 
