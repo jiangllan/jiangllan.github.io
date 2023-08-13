@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master's student at the [Department of Automation](https://www.au.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
+I am a NLP engineer at WeChat AI, Tencent Inc.
+
+I recied my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
 
 Previously, I finished my bachelor degree in [Beijing Normal University](https://www.bnu.edu.cn/), majoring in Computer Science and Technology.
 
@@ -82,8 +84,11 @@ Education
 
 Publications & Preprints
 ---
+One-stop Training of Multiple Capacity Models.[[Paper]](https://arxiv.org/pdf/2305.14066.pdf) \\
+Lan Jiang, Haoyang Huang, Dongdong Zhang, Rui Jiang, Furu Wei \\
+Preprint.
 
-ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. [[Code]](https://github.com/jiangllan/ROSE) \\
+ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. [[Paper]](https://aclanthology.org/2022.emnlp-main.186.pdf) [[Code]](https://github.com/jiangllan/ROSE) \\
 **Lan Jiang**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Rui Jiang.\\
 EMNLP 2022.
 
@@ -102,7 +107,7 @@ EMNLP 2019.
 
 Experiences
 ---
-<div style="float:left"><b>NLC, MSRA</b></div> <div style="float:right"><i>June. 2022 - Now</i></div>
+<div style="float:left"><b>NLC, MSRA</b></div> <div style="float:right"><i>June. 2022 - April. 2023</i></div>
 <br>
 + Research Intern advised by <a href="https://www.microsoft.com/en-us/research/people/haohua/">Haoyang Huang</a>
 + Study the topic on Mixture of Experts (MoE).
