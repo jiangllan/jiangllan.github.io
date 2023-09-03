@@ -14,7 +14,7 @@ I recied my MS degree from the [Department of Automation](https://www.au.tsinghu
 
 Previously, I finished my bachelor degree in [Beijing Normal University](https://www.bnu.edu.cn/), majoring in Computer Science and Technology.
 
-My research interests fall in Natural Language Processing. 
+My research interests fall in Natural Language Processing.
 
 <!-- What's New ===== -->
 
@@ -39,7 +39,7 @@ Education
 	  </td>
 	  <td valign="middle" align="left">
 	    <div>
-        <div style="float:left"><b>Tsinghua University</b></div> <div style="float:right"><i>Sep. 2020 - Jun. 2023 (Expected)</i></div>
+        <div style="float:left"><b>Tsinghua University</b></div> <div style="float:right"><i>Sep. 2020 - Jun. 2023</i></div>
         <div style="clear: both"></div>
 	    	Department of Automation
         <br>
