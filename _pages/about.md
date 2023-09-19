@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a NLP engineer at WeChat AI, Tencent Inc.
+I am an NLP engineer at WeChat AI, Tencent Inc.
 
 I recied my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
 
