@@ -10,9 +10,9 @@ redirect_from:
 
 I am an NLP engineer at WeChat AI, Tencent Inc.
 
-I recied my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
+I received my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) at Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
 
-Previously, I finished my bachelor degree in [Beijing Normal University](https://www.bnu.edu.cn/), majoring in Computer Science and Technology.
+Previously, I finished my bachelor's degree in [Beijing Normal University](https://www.bnu.edu.cn/), majoring in Computer Science and Technology.
 
 My research interests fall in Natural Language Processing.
 
