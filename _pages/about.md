@@ -111,7 +111,7 @@ Experiences
 <div style="float:left"><b>WeChat, Tencent Inc.</b></div> <div style="float:right"><i>July. 2023 - Nov. 2024</i></div>
 <br>
 + NLP Engineer at WeType
-+ Led the “Ask AI” passive recommendation service for WeType, serving about **12M users**, **~4.5B daily calls**, **~160M daily impressions**.
++ Led the “Ask AI” passive recommendation service for WeType, serving about 12M users, ~4.5B daily calls, ~160M daily impressions.
 + Research on robustness optimization for RAG
 
 <div style="float:left"><b>NLC, MSRA</b></div> <div style="float:right"><i>June. 2022 - April. 2023</i></div>
