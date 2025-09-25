@@ -28,10 +28,10 @@ i {
 
 Publications & Preprints
 ---
-Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought[[Paper]](https://arxiv.org/pdf/2505.15431) \\
+Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought. [[Paper]](https://arxiv.org/pdf/2505.15431) \\
 Tencent Hunyuan Team 
 
-One-stop Training of Multiple Capacity Models.[[Paper]](https://arxiv.org/pdf/2305.14066.pdf) \\
+One-stop Training of Multiple Capacity Models. [[Paper]](https://arxiv.org/pdf/2305.14066.pdf) \\
 Lan Jiang, Haoyang Huang, Dongdong Zhang, Rui Jiang, Furu Wei \\
 Preprint.
 
