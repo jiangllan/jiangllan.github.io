@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an NLP engineer at WeChat AI, Tencent Inc.
+I am an researcher at HunYuan Team, Tencent Inc.
 
 I received my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) at Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
 
-Previously, I finished my bachelor's degree in [Beijing Normal University](https://www.bnu.edu.cn/), majoring in Computer Science and Technology.
-
-My research interests fall in Natural Language Processing.
+I aim to build interpretable and trustworthy AI models. My current work advances the capabilities of the HunYuan models through innovations in data and architecture.
 
 <!-- What's New ===== -->
 
@@ -27,6 +25,32 @@ i {
 	align: right;
 }
 </style>
+
+Publications & Preprints
+---
+Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought[[Paper]](https://arxiv.org/pdf/2505.15431) \\
+Tencent Hunyuan Team \\
+
+One-stop Training of Multiple Capacity Models.[[Paper]](https://arxiv.org/pdf/2305.14066.pdf) \\
+Lan Jiang, Haoyang Huang, Dongdong Zhang, Rui Jiang, Furu Wei \\
+Preprint.
+
+ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. [[Paper]](https://aclanthology.org/2022.emnlp-main.186.pdf) [[Code]](https://github.com/jiangllan/ROSE) \\
+**Lan Jiang**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Rui Jiang.\\
+EMNLP 2022.
+
+On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330.pdf) [[Code]](https://github.com/jiangllan/LengthBias) \\
+**Lan Jiang**, Tianshu Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin.\\
+Findings of ACL 2022.
+
+Exploration of the Change Trend Analysis of the Epidemiological History of COVID-19 Patients Based on Natural Language Processing. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=YISZ202005027&uniplatform=NZKPT&v=nplTtNuTmwr66Ho-2sKaOzxX08lbSCl10HGufZNm5UhslzEMtTklVutJrryJ1yw2) \\
+Xiaolu Fei, **Lan Jiang**, Pengyu Chen, Jia Li, Lan Wei, Rui Jiang, Hairong Lv.\\
+China Digital Medicine 2020 (Journal).
+
+MAssistant: A Personal Knowledge Assistant for MOOC Learners. The Conference on Empirical Methods in Natural Language Processing. [[Paper]](https://aclanthology.org/D19-3023.pdf) \\
+**Lan Jiang**, Shuhan Hu, Mingyu Huang, Zhichun Wang, Jinjian Yang, Xiaoju Ye, Wei Zheng. \\
+EMNLP 2019.
+
 
 Education
 ---
@@ -82,31 +106,14 @@ Education
 </table>
 
 
-Publications & Preprints
----
-One-stop Training of Multiple Capacity Models.[[Paper]](https://arxiv.org/pdf/2305.14066.pdf) \\
-Lan Jiang, Haoyang Huang, Dongdong Zhang, Rui Jiang, Furu Wei \\
-Preprint.
-
-ROSE: Robust Selective Fine-tuning for Pre-trained Language Models. [[Paper]](https://aclanthology.org/2022.emnlp-main.186.pdf) [[Code]](https://github.com/jiangllan/ROSE) \\
-**Lan Jiang**, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Rui Jiang.\\
-EMNLP 2022.
-
-On Length Divergence Bias in Textual Matching Models. [[Paper]](https://aclanthology.org/2022.findings-acl.330.pdf) [[Code]](https://github.com/jiangllan/LengthBias) \\
-**Lan Jiang**, Tianshu Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin.\\
-Findings of ACL 2022.
-
-Exploration of the Change Trend Analysis of the Epidemiological History of COVID-19 Patients Based on Natural Language Processing. [[Paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=YISZ202005027&uniplatform=NZKPT&v=nplTtNuTmwr66Ho-2sKaOzxX08lbSCl10HGufZNm5UhslzEMtTklVutJrryJ1yw2) \\
-Xiaolu Fei, **Lan Jiang**, Pengyu Chen, Jia Li, Lan Wei, Rui Jiang, Hairong Lv.\\
-China Digital Medicine 2020 (Journal).
-
-MAssistant: A Personal Knowledge Assistant for MOOC Learners. The Conference on Empirical Methods in Natural Language Processing. [[Paper]](https://aclanthology.org/D19-3023.pdf) \\
-**Lan Jiang**, Shuhan Hu, Mingyu Huang, Zhichun Wang, Jinjian Yang, Xiaoju Ye, Wei Zheng. \\
-EMNLP 2019.
-
-
 Experiences
 ---
+<div style="float:left"><b>WeChat, Tencent Inc.</b></div> <div style="float:right"><i>July. 2023 - Nov. 2024</i></div>
+<br>
++ NLP Engineer at WeType
++ Led the “Ask AI” passive recommendation service for WeType, serving about **12M users**, **~4.5B daily calls**, **~160M daily impressions**.
++ Research on robustness optimization for RAG
+
 <div style="float:left"><b>NLC, MSRA</b></div> <div style="float:right"><i>June. 2022 - April. 2023</i></div>
 <br>
 + Research Intern advised by <a href="https://www.microsoft.com/en-us/research/people/haohua/">Haoyang Huang</a>
