@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an researcher at HunYuan Team, Tencent Inc.
+I am a researcher at HunYuan Team, Tencent Inc.
 
 I received my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) at Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
 
