@@ -88,7 +88,7 @@ Education
         <br>
 		</div>
 	</td></tr></tbody>
-	<tbody><tr><td valign="middle" align="left">
+	<!-- <tbody><tr><td valign="middle" align="left">
 	    <img src="http://jiangllan.github.io/images/OXF.jpg" width="40%">
 	  </td>
 	  <td style="width:1px">
@@ -102,7 +102,7 @@ Education
          Exchange Student
         <br>
 		</div>
-	</td></tr></tbody>
+	</td></tr></tbody> -->
 </table>
 
 
