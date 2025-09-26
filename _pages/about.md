@@ -12,7 +12,7 @@ I am a researcher at HunYuan Team, Tencent Inc.
 
 I received my MS degree from the [Department of Automation](https://www.au.tsinghua.edu.cn/) at Tsinghua University, supervised by [Prof. Rui Jiang](https://www.au.tsinghua.edu.cn/info/1111/1526.htm).
 
-I aim to build interpretable and trustworthy AI models. My current work advances the capabilities of the HunYuan models through innovations in data and architecture.
+I am dedicated to developing interpretable and trustworthy AI models. My current work focuses on advancing the HunYuan models through innovations in data and architecture.
 
 <!-- What's New ===== -->
 
