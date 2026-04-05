@@ -4,8 +4,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-# Bundler — do not commit installed gems
+# Bundler — do not commit installed gems or local config
 vendor/bundle/
+.bundle/
 
 # OS / editor
 .DS_Store
