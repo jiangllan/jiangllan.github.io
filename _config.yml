@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Lan Jiang"
 title_separator          : "-"
 name                     : &name "Lan Jiang"
-description              : &description "Student @ Automation, Tsinghua University"
+# Keep in sync with the opening paragraphs of _pages/about.md (site SEO / feeds).
+description              : &description "NLP engineer at WeChat AI, Tencent. MS in Automation, Tsinghua University. Research in natural language processing."
 url                      : https://jiangllan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiangllan/jiangllan.github.io"
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Lan Jiang（江澜）"
   avatar           : "profile2.jpg"
-  bio              : "Engineer @ WeChat, Tencent Inc."
+  bio              : "NLP engineer at WeChat AI, Tencent Inc."
   location         : "Beijing, China"
   employer         :
   pubmed           :

@@ -1,0 +1,17 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler — do not commit installed gems
+vendor/bundle/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Node (if used later)
+node_modules/
