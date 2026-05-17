@@ -1,0 +1,46 @@
+{% assign item = include.item %}
+<li class="media mb-1">
+    {% if item.logo %}
+    <img src="{{ item.logo | relative_url }}" alt="{{ item.organization | default: item.title }}" class="mr-3 mt-1 institution-logo-fixed">
+    {% else %}
+    <span class="institution-logo-placeholder mr-3 mt-1" aria-hidden="true">
+        <i class="fas fa-briefcase"></i>
+    </span>
+    {% endif %}
+    <div class="media-body">
+        <div>{{ item.organization | default: item.title }}</div>
+        {% if item.location %}
+        <div class="small text-muted">{{ item.location }}</div>
+        {% endif %}
+        <div class="small d-flex">
+            <div>{{ item.title }}</div>
+            <div class="mt-auto ml-auto no-break">
+                <em>
+                    {{ item.date | date: "%b %Y" }}
+                    {% if item.end_date %}
+                        -
+                        {% if item.end_date == "Present" or item.end_date == "present" %}
+                            Present
+                        {% else %}
+                            {{ item.end_date | date: "%b %Y" }}
+                        {% endif %}
+                    {% endif %}
+                </em>
+            </div>
+        </div>
+        {% if item.summary %}
+        <div class="small mt-1 text-muted">{{ item.summary }}</div>
+        {% endif %}
+        {% if item.links %}
+        <div class="small mt-1">
+            {% for link in item.links %}
+            {% if link[1].url %}
+            <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
+            {% else %}
+            <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</li>

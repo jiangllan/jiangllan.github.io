@@ -1,0 +1,10 @@
+{% assign experiences = site.experiences | sort: "date" | reverse %}
+{% assign display_limit = include.limit | default: site.data.display.homepage.num_experiences | default: 5 %}
+<div class="my-3 p-0 bg-white shadow-sm rounded-xl">
+    <h6 class="border-bottom border-gray p-3 mb-0">Experience</h6>
+    <ul class="list-unstyled mb-1 px-3 py-2">
+        {% for item in experiences limit:display_limit %}
+            {% include widgets/experience_item.html item=item %}
+        {% endfor %}
+    </ul>
+</div>
