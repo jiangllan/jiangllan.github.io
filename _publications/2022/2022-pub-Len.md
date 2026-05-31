@@ -2,7 +2,7 @@
 title:          "On Length Divergence Bias in Textual Matching Models"
 date:           2022-05-05
 selected:       true
-pub:            "The Annual Meeting of the Association for Computational Linguistic (ACL) Findings"
+pub:            "Findings of the Association for Computational Linguistics (ACL)"
 pub_date:       "2022"
 # semantic_scholar_id: 175b32c07e56f881479be4c5a74bfa3c731cc454  # use this to retrieve citation count
 abstract: >-
