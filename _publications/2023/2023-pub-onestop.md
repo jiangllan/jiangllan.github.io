@@ -2,7 +2,7 @@
 title:          "One-stop Training of Multiple Capacity Models"
 date:           2023-05-24
 selected:       false
-pub_pre:        "Arxiv"
+pub_pre:        "arXiv"
 pub_date:       "2023"
 abstract: >-
   Training models with varying capacities can be advantageous for deploying them in different scenarios. 

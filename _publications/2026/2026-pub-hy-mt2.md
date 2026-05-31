@@ -3,7 +3,7 @@ title:          "Hy-MT2: A Family of Fast, Efficient and Powerful Multilingual T
 date:           2026-05-25
 selected:       false
 # pub:            "International Conference on Machine Learning (ICML)"
-pub_pre:        "Arxiv"
+pub_pre:        "arXiv"
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"

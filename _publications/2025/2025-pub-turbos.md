@@ -3,7 +3,7 @@ title:          "Hunyuan-TurboS: Advancing Large Language Models through Mamba-T
 date:           2025-07-08
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
-pub_pre:        "Arxiv"
+pub_pre:        "arXiv"
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"

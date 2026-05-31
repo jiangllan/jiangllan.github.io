@@ -22,8 +22,7 @@ github: jiangllan
 short_bio_text_justify: false
 short_bio: >-
   <p>I am a researcher at <a href="https://hy.tencent.com/research?page=1" target="_blank">Tencent Hy</a>, pre-training team.
-  My research focuses on the reliability and predictability of large language models — understanding their behavior and developing principled training that keeps it stable across scales, architectures, and training recipes.
-  I currently work on scaling laws and pre-training design.</p>
+  My research focuses on the reliability and predictability of large language models — understanding their behavior and developing principled training that keeps it stable across scales, architectures, and training recipes. Currently, I work on scaling laws for pre-training, making model behavior predictable as models scale.</p>
 
   <p>I received my M.S. from the <a href="https://www.au.tsinghua.edu.cn/en/" target="_blank">Department of Automation</a> at Tsinghua University, supervised by <a href="https://scholar.google.com/citations?user=LkF_AbYAAAAJ&hl=en" target="_blank">Prof. Rui Jiang</a>.</p>
 
